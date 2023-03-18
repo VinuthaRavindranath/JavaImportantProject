@@ -3,13 +3,13 @@
 - [x] 1.How to find Prime Number
 - [x] 2.Reverse Integer
 - [x] 3.Reverse String
-- [x]  4.Min And Max Array
+- [x] 4.Min And Max Array
 - [x] 5.Find Duplicates Elements In An Array
 - [x] 6.Find Missing Number In Array
 - [x] 7.Remove Special Chars In A String
-- [ ] 8.Even or Odd
-- [ ] 9.FizzBuzz
-- [ ] 10.Fibonacci
+- [x] 8.Even or Odd
+- [x] 9.FizzBuzz
+- [x] 10.Fibonacci
 - [ ] 11.Swap values of two variables
 - [x] 12.String palindrome
 - [x] 13.Number palindrome
@@ -27,6 +27,7 @@
 - [ ] 25.Can you prove that a String object in Java is immutable programmatically?
 - [ ] 26.How do you show a diamond problem with multiple inheritance in Java?
 - [ ] 27.How do you write an interface with default and static method?
+- [x] 28.How to find Armstrong Number?
 
 
 
