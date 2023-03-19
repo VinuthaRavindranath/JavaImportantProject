@@ -1,3 +1,4 @@
+package JavaPrograms;
 /**
  * A number is thought of as an Armstrong number in java 
  * if the sum of its own digits raised to the power number of digits gives the number itself.

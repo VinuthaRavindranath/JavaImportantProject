@@ -1,3 +1,4 @@
+package JavaPrograms;
 public class RemoveSpecialCharsInAString {
     /**
      * how to Remove Junk/Special Characters in a String by using Regular Expression:

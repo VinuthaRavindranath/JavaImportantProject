@@ -1,3 +1,4 @@
+package JavaPrograms;
 public class PalindromeString {
 
     public static void isPalindromeString(String word){

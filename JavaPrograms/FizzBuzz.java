@@ -1,3 +1,4 @@
+package JavaPrograms;
 /**
 Say Fizz if the number is divisible by 3.
 Say Buzz if the number is divisible by 5.

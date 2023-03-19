@@ -1,3 +1,4 @@
+package JavaPrograms;
 public class ReverseInteger {
 
     //public static int number = 12345;

@@ -1,3 +1,4 @@
+package JavaPrograms;
 /**
  * A palindrome number is a number that remains the same when digits are reversed. 
  * For example, the number 12321 is a palindrome number

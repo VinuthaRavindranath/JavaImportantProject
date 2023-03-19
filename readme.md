@@ -10,24 +10,23 @@
 - [x] 8.Even or Odd
 - [x] 9.FizzBuzz
 - [x] 10.Fibonacci
-- [ ] 11.Swap values of two variables
+- [x] 11.Swap values of two integer variables
 - [x] 12.String palindrome
 - [x] 13.Number palindrome
-- [ ] 14.Two string anagram
+- [x] 14.Two string anagram
 - [ ] 15.Array reverse
 - [ ] 16.Find the second min/max number from an array
 - [ ] 17.Sort array without built in sort methods
 - [ ] 18.Store list in hashmap 
 - [ ] 19.Count letters(Map)
-- [ ] 20.Write a Java program to check if a vowel is present in a string
+- [x] 20.Write a Java program to check if a vowel is present in a string
 - [ ] 21.Write Java program that checks if two arrays contain the same elements.
 - [ ] 22.How do you merge two lists in Java?
 - [ ] 23.Write a Java program that sorts HashMap by value.
 - [ ] 24.How do you get distinct characters and their count in a string in Java?
-- [ ] 25.Can you prove that a String object in Java is immutable programmatically?
-- [ ] 26.How do you show a diamond problem with multiple inheritance in Java?
-- [ ] 27.How do you write an interface with default and static method?
-- [x] 28.How to find Armstrong Number?
+- [x] 25.How to find Armstrong Number?
+- [x] 26.Swap values of two String variables
+- [x] 27.Sort String Characters In Alphabetical Order
 
 
 
@@ -41,4 +40,7 @@
 
 
 
-Important Java topics
+#Important Java topics
+- [ ] 1.Can you prove that a String object in Java is immutable programmatically?
+- [ ] 2.How do you show a diamond problem with multiple inheritance in Java?
+- [ ] 3.How do you write an interface with default and static method?
