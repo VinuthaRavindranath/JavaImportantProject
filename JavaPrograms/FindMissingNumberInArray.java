@@ -1,3 +1,4 @@
+package JavaPrograms;
 public class FindMissingNumberInArray {
 
     public static void findMissingNumber(){

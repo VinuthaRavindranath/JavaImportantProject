@@ -1,3 +1,4 @@
+package JavaPrograms;
 public class ReverseString {
 
     public static String reverse(String s){

@@ -1,3 +1,4 @@
+package JavaPrograms;
 /**
  * How to find Prime Number
  * Def of Prime Number:Prime numbers are numbers greater than 1. 

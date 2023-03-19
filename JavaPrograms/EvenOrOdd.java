@@ -1,3 +1,4 @@
+package JavaPrograms;
 public class EvenOrOdd {
 
     public static boolean isEvenOrOdd(int num){

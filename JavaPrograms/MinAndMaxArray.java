@@ -1,3 +1,4 @@
+package JavaPrograms;
 public class MinAndMaxArray {
 
     public static void minAndMax(){
