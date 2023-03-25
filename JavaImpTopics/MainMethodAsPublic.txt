@@ -1,0 +1,11 @@
+Why main method is declared as Public in Java ?
+
+main() method is declared as:
+
+public static void main(String[] args)
+
+If a public keyword is used for a method then that method is available in the project structure.
+ The JVM looks for the main method with public keyword after which execution is initiated. 
+ If the main method is not declared as public then the method is not visible to the JVM and an exception is thrown.
+
+If private keyword is used before main method then the program compiles but at runtime exception is thrown.

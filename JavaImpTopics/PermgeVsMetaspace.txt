@@ -1,0 +1,22 @@
+PermGen (CMA common memory allocation)
+(Permanent Generation) is a special heap space separated from the main memory heap.
+
+The JVM keeps track of loaded class metadata in the PermGen. Additionally, the JVM stores all the static content in this memory section. This includes all the static methods, primitive variables, and references to the static objects.
+
+Furthermore, it contains data about bytecode, names, and JIT information. Before Java 7, the String Pool was also part of this memory. The disadvantages of the fixed pool size are listed in our write-up.
+
+
+The default maximum memory size for 32-bit JVM is 64 MB and 82 MB for the 64-bit version.
+With its limited memory size, PermGen is involved in generating the famous OutOfMemoryError. Simply put, the class loaders weren't garbage collected properly and, as a result, generated a memory leak.
+
+Therefore, we receive a memory space error; this happens mostly in the development environment while creating new class loaders.
+----------------------------------------------------------------
+Metaspace
+Simply put, Metaspace is a new memory space – starting from the Java 8 version; it has replaced the older PermGen memory space. The most significant difference is how it handles memory allocation.
+
+Specifically, this native memory region grows automatically by default.
+Additionally, the garbage collection process also gains some benefits from this change. The garbage collector now automatically triggers the cleaning of the dead classes once the class metadata usage reaches its maximum metaspace size.
+
+Therefore, with this improvement, JVM reduces the chance to get the OutOfMemory error.
+
+REFERENCE https://www.baeldung.com/java-permgen-metaspace

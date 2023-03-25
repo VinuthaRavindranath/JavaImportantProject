@@ -1,0 +1,3 @@
+https://www.baeldung.com/java-permgen-metaspace
+https://www.javatpoint.com/static-keyword-in-java
+
