@@ -33,7 +33,7 @@
 #OOPS Concepts
 - [ ] 1.Inheritance
 - [ ] 2.Encapsulation
-- [ ] 3.Compile time polymorphisim
+- [x] 3.Compile time polymorphisim
 - [ ] 4.Run time polymorphisim
 - [ ] 5.Abstraction
 - [ ] 6.Interface
@@ -44,3 +44,7 @@
 - [ ] 1.Can you prove that a String object in Java is immutable programmatically?
 - [ ] 2.How do you show a diamond problem with multiple inheritance in Java?
 - [ ] 3.How do you write an interface with default and static method?
+- [x] 4.Permgen vs Metaspace in Java
+- [x] 5.Java static keyword
+- [x] 6.Why main method is declared as Public in Java ?
+- [x] 7.Can we overload a constructor in Java?
