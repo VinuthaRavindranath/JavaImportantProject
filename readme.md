@@ -32,7 +32,7 @@
 
 #OOPS Concepts
 - [ ] 1.Inheritance
-- [ ] 2.Encapsulation
+- [x] 2.Encapsulation
 - [x] 3.Compile time polymorphisim
 - [ ] 4.Run time polymorphisim
 - [ ] 5.Abstraction
@@ -48,3 +48,4 @@
 - [x] 5.Java static keyword
 - [x] 6.Why main method is declared as Public in Java ?
 - [x] 7.Can we overload a constructor in Java?
+- [x] 8.Can you explain call-by-value and call-by-reference?
