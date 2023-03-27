@@ -1,0 +1,13 @@
+Can a constructor be marked as private contructor?
+
+Yes, we can make constructor as private.
+
+But when can we make a constructor as private? real time example?
+When we have a class, if that class contains all static methods only the we can make the constructor as private.
+We dont need an create an object becuase we can call the static methods directly.
+
+Example : System.class
+/** Don't let anyone instantiate this class */
+    private System() {
+    }
+
