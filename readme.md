@@ -49,3 +49,6 @@
 - [x] 6.Why main method is declared as Public in Java ?
 - [x] 7.Can we overload a constructor in Java?
 - [x] 8.Can you explain call-by-value and call-by-reference?
+- [x] 9.Can a constructor be marked as private contructor?
+- [ ] 10.Method overloading vs. method overriding
+- [ ] 11. Difference between abstract class and interface
