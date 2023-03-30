@@ -31,24 +31,29 @@
 
 
 #OOPS Concepts
-- [ ] 1.Inheritance
+- [x] 1.Inheritance
 - [x] 2.Encapsulation
 - [x] 3.Compile time polymorphisim
-- [ ] 4.Run time polymorphisim
+- [x] 4.Run time polymorphisim
 - [ ] 5.Abstraction
-- [ ] 6.Interface
+- [x] 6.Interface
 
 
 
 #Important Java topics
 - [ ] 1.Can you prove that a String object in Java is immutable programmatically?
-- [ ] 2.How do you show a diamond problem with multiple inheritance in Java?
-- [ ] 3.How do you write an interface with default and static method?
+- [x] 2.How do you show a diamond problem with multiple inheritance in Java?
+- [x] 3.How do you write an interface with default and static method?
 - [x] 4.Permgen vs Metaspace in Java
 - [x] 5.Java static keyword
 - [x] 6.Why main method is declared as Public in Java ?
 - [x] 7.Can we overload a constructor in Java?
 - [x] 8.Can you explain call-by-value and call-by-reference?
 - [x] 9.Can a constructor be marked as private contructor?
-- [ ] 10.Method overloading vs. method overriding
-- [ ] 11. Difference between abstract class and interface
+- [x] 10.Method overloading vs. method overriding Refer to https://www.geeksforgeeks.org/difference-between-method-overloading-and-method-overriding-in-java/
+- [ ] 11.Difference between abstract class and interface
+- [x] 12.What is top casting or up casting? Refer to::OOPSConcepts/MethodOverriding/BankTest.java
+- [x] 13.Is downcasting allowed in java? Refer to::OOPSConcepts/MethodOverriding/BankTest.java
+- [x] 14.Can We Override a Final Method?
+- [x] 15.Can We Override Static Method in Java? and what is method hiding concept?
+
