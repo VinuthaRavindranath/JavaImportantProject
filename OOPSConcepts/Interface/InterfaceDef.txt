@@ -1,0 +1,19 @@
+An interface in Java is a blueprint of a class. It has static constants and abstract methods.
+
+The interface in Java is a mechanism to achieve abstraction. There can be only abstract methods in the Java interface, not method body. 
+It is used to achieve abstraction and multiple inheritance in Java.
+
+In other words, you can say that interfaces can have abstract methods and variables. 
+It cannot have a method body.
+
+To access the interface methods, the interface must be "implemented" (kinda like inherited) by another class with the implements keyword (instead of extends). 
+The body of the interface method is provided by the "implement" class
+
+Notes on Interfaces:
+Like abstract classes, interfaces cannot be used to create objects (in the example above, 
+it is not possible to create an "Animal" object in the MyMainClass)
+Interface methods do not have a body - the body is provided by the "implement" class
+On implementation of an interface, you must override all of its methods
+Interface methods are by default abstract and public
+Interface attributes are by default public, static and final
+An interface cannot contain a constructor (as it cannot be used to create objects)

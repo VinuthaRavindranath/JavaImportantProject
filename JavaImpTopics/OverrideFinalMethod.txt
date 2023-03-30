@@ -1,0 +1,11 @@
+Reference https://www.geeksforgeeks.org/can-we-override-final-method-in-java/
+The JVM has 2 choices, it can either call the original method present in the superclass or the Overridden method present in the subclass. Due to late binding, this decision is taken at run-time and not at compile-time.
+
+Can We Override a Final Method?
+
+No, the Methods that are declared as final cannot be Overridden or hidden. 
+For this very reason, a method must be declared as final only when we’re sure that it is complete.
+
+It is noteworthy that abstract methods cannot be declared as final because they aren’t complete and Overriding them is necessary.
+Methods are declared final in java to prevent subclasses from Overriding them and changing their behavior, the reason this works is discussed at the end of this article.
+The advantage of the final keyword is that it stops developers from intentionally or unintentionally changing the behavior of methods that should not be changed for security or other reasons.

@@ -1,0 +1,19 @@
+Reference https://www.javatpoint.com/what-is-diamond-problem-in-java
+
+The Diamond Problem
+The diamond problem is a common problem in Java when it comes to inheritance. 
+Inheritance is a very popular property in an object-oriented programming language, such as C++, Java, etc. 
+There are different types of inheritance such as, single, multiple, multi-level, and hybrid inheritance.
+But remember that Java does not support the multiple inheritance because of the diamond problem.
+
+As simple inheritance allows a child class to derive properties from one super-class. 
+for example, if class B inherits properties from only one super-class A, then it is called simple inheritance, and Java supports them.
+
+Multiple Inheritance
+It is a feature of an object-oriented concept, where a class can inherit properties of more than one parent class. 
+The feature creates a problem when there exist methods with the same name and signature in both the super-class and sub-class. 
+When we call the method, the compiler gets confused and cannot determine which class method to be called and even on calling which class method gets the priority.
+
+Class B and class C inherits the class A. The display() method of class A is overridden by the class B and class C.
+Class D inherits the class B and class C (which is invalid in Java). Assume that we need to call the display() method by using the object of class D, in this scenario Java compiler does not know which display() method to call. Therefore, it creates ambiguity.
+
