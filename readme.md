@@ -56,4 +56,5 @@
 - [x] 13.Is downcasting allowed in java? Refer to::OOPSConcepts/MethodOverriding/BankTest.java
 - [x] 14.Can We Override a Final Method?
 - [x] 15.Can We Override Static Method in Java? and what is method hiding concept?
+- [x] 16.Can an Interface have final methods? Can we make an Interface final? JavaImpTopics/InterfacePrac/FinalInterfaceDemo.java
 
