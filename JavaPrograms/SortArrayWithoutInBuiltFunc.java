@@ -1,9 +1,9 @@
 package JavaPrograms;
 
+import java.util.Arrays;
 
-
-public class Prac {
-
+public class SortArrayWithoutInBuiltFunc {
+    
     public static void sortArrAscendingOrder(int[] arr){
         int temp=0;
         for (int i = 0; i < arr.length; i++) {
@@ -40,7 +40,15 @@ public class Prac {
         for (int a : arr) {
             System.out.print(a+" ");
         }
-      
+        System.out.println("------->");
+    }
+
+    public static void usingInBuilt(int[] arr){
+        Arrays.sort(arr);
+        for (int a : arr) {
+            System.out.print(a+" ");
+        }
+
     }
 
 
@@ -49,6 +57,7 @@ public class Prac {
         int[] arr= {55,66,-47,88,34,12};
         sortArrAscendingOrder(arr);
         sortArrDescendingOrder(arr);
+        usingInBuilt(arr);
     }
 
 }

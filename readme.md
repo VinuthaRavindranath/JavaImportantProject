@@ -14,9 +14,9 @@
 - [x] 12.String palindrome
 - [x] 13.Number palindrome
 - [x] 14.Two string anagram
-- [ ] 15.Array reverse
-- [ ] 16.Find the second min/max number from an array
-- [ ] 17.Sort array without built in sort methods
+- [x] 15.Reverse an Array
+- [x] 16.Find the second min/max number from an array
+- [x] 17.Sort array without built in sort methods
 - [ ] 18.Store list in hashmap 
 - [ ] 19.Count letters(Map)
 - [x] 20.Write a Java program to check if a vowel is present in a string
@@ -35,7 +35,7 @@
 - [x] 2.Encapsulation
 - [x] 3.Compile time polymorphisim
 - [x] 4.Run time polymorphisim
-- [ ] 5.Abstraction
+- [x] 5.Abstraction
 - [x] 6.Interface
 
 
@@ -51,7 +51,7 @@
 - [x] 8.Can you explain call-by-value and call-by-reference?
 - [x] 9.Can a constructor be marked as private contructor?
 - [x] 10.Method overloading vs. method overriding Refer to https://www.geeksforgeeks.org/difference-between-method-overloading-and-method-overriding-in-java/
-- [ ] 11.Difference between abstract class and interface
+- [x] 11.Difference between abstract class and interface https://www.javatpoint.com/difference-between-abstract-class-and-interface
 - [x] 12.What is top casting or up casting? Refer to::OOPSConcepts/MethodOverriding/BankTest.java
 - [x] 13.Is downcasting allowed in java? Refer to::OOPSConcepts/MethodOverriding/BankTest.java
 - [x] 14.Can We Override a Final Method?
