@@ -17,16 +17,18 @@
 - [x] 15.Reverse an Array
 - [x] 16.Find the second min/max number from an array
 - [x] 17.Sort array without built in sort methods
-- [ ] 18.Store list in hashmap 
-- [ ] 19.Count letters(Map)
+- [x] 18.Write a Java Program to count the number of words in a string using HashMap.
+- [x] 19.How To Count Occurrences Of Each Character In String In Java
 - [x] 20.Write a Java program to check if a vowel is present in a string
-- [ ] 21.Write Java program that checks if two arrays contain the same elements.
-- [ ] 22.How do you merge two lists in Java?
-- [ ] 23.Write a Java program that sorts HashMap by value.
-- [ ] 24.How do you get distinct characters and their count in a string in Java?
+- [x] 21.Write Java program that checks if two arrays contain the same elements.
+- [x] 22.How do you merge two lists in Java?
+- [x] 23.Write a Java program that sorts HashMap by value.
+- [x] 24.How do you get distinct characters and their count in a string in Java?
 - [x] 25.How to find Armstrong Number?
 - [x] 26.Swap values of two String variables
 - [x] 27.Sort String Characters In Alphabetical Order
+- [x] 28.Check if Int Array contains a given value
+- [x] 29.Convert an Array to list and list to an array
 
 
 

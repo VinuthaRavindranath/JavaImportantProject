@@ -1,11 +1,9 @@
 package JavaPrograms;
-
 import java.util.HashMap;
 import java.util.Map.Entry;
 import java.util.Set;
 
-public class Prac {
-
+public class DistinctCharAndTheirCount {
     public static void distinctCharCount( String name){
         char[] ch=name.toCharArray();
         HashMap<Character,Integer>map=new HashMap<>();
@@ -41,5 +39,4 @@ public class Prac {
        // distinctCharCount("Apple And Banana");
 
     }
-
 }
